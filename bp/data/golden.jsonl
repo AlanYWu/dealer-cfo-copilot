@@ -1,0 +1,8 @@
+{"id": "g1", "kind": "must_answer", "query": "Variable Selling Expense 5.2% of gross", "expected_line_id": "variable-selling-expense", "expected_page": 358, "must_contain_lowercase": ["variable"]}
+{"id": "g2", "kind": "must_answer", "query": "floor plan interest", "expected_line_id": "floor-plan-interest", "expected_page": 433, "must_contain_lowercase": ["floor", "plan"]}
+{"id": "g3", "kind": "must_answer", "query": "customer pay labor gross", "expected_line_id": "service-cp-labor-gross", "expected_page": 263, "must_contain_lowercase": ["customer"]}
+{"id": "g4", "kind": "must_answer", "query": "variable gross profit definition", "expected_line_id": "variable-gross-profit", "expected_page": 564, "must_contain_lowercase": ["variable", "gross"]}
+{"id": "g5", "kind": "must_answer", "query": "holdback income", "expected_line_id": "holdback", "expected_page": 81, "must_contain_lowercase": ["holdback"]}
+{"id": "g6", "kind": "must_refuse", "query": "how to fire a technician under California labor law"}
+{"id": "g7", "kind": "must_refuse", "query": "what is the current prime rate"}
+{"id": "g8", "kind": "must_refuse", "query": "dealer advertising budget benchmarks 2026"}

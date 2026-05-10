@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  height: 100%;
+}
+body {
+  @apply bg-white text-neutral-900 antialiased;
+}
+
+.textLayer mark.rag-hit,
+.react-pdf__Page__textContent mark.rag-hit {
+  background-color: rgba(250, 204, 21, 0.55) !important;
+  color: transparent !important;
+  padding: 0 !important;
+  border-radius: 2px !important;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}

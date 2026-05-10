@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# next.js
+.next/
+out/
+build/
+tsconfig.tsbuildinfo
+
+# environment
+.env
+.env.local
+.env*.local
+
+# workspace data (per-user PDFs, sessions, users.json)
+data/
+
+# brainstorming companion session state
+.superpowers/
+
+# misc
+.DS_Store
+*.log
+.vscode/
+.idea/
+coverage/

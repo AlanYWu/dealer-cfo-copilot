@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/alanwu/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming/scripts/start-server.sh *)",
+      "Bash(npm run *)",
+      "Bash(npx tsc *)",
+      "Bash(node *)",
+      "Bash(2>&1)",
+      "Bash(npx playwright *)"
+    ]
+  }
+}

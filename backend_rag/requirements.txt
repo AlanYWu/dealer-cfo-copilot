@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+elasticsearch>=8.13,<9
+sentence-transformers>=3.0
+torch>=2.3
+numpy>=1.26
+pytest>=8.0

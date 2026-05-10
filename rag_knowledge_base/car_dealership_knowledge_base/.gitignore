@@ -1,0 +1,6 @@
+# Redacted client artifacts — never commit
+_sample_statements/*.pdf
+_sample_statements/*.xlsx
+
+# OS
+.DS_Store

@@ -1,0 +1,204 @@
+{
+  "lines": [
+    {
+      "line_id": "new-veh-retail-gross",
+      "canonical_name": "New Vehicle Retail — Gross Profit",
+      "page": 209,
+      "line_number": null,
+      "category": "new_vehicles",
+      "aliases": ["new vehicle retail gross", "new car gross", "new retail gross profit"],
+      "manual_section_refs": ["NEW VEHICLE", "RETAIL"],
+      "notes": "Sales in accounts 400-418; cost of sales 600-618. Synopsis is on PDF page 209 (Accounts 400-418 New Cars Retail). The manual text does not reproduce the operating-report line-number grid, so line_number is null."
+    },
+    {
+      "line_id": "used-veh-retail-gross",
+      "canonical_name": "Used Vehicle Retail — Gross Profit",
+      "page": 239,
+      "line_number": null,
+      "category": "used_vehicles",
+      "aliases": ["used vehicle retail gross", "used car gross", "certified used retail"],
+      "manual_section_refs": ["USED VEHICLE", "RETAIL"],
+      "notes": "Account 446A (Certified) and 446B (Other) — retail sales. Synopsis page 239."
+    },
+    {
+      "line_id": "variable-selling-expense",
+      "canonical_name": "Variable Selling Expense — Vehicle Salespeople Compensation",
+      "page": 358,
+      "line_number": null,
+      "category": "variable_expenses",
+      "aliases": ["variable selling", "salesperson compensation", "VSE", "011 compensation"],
+      "manual_section_refs": ["VARIABLE SELLING"],
+      "notes": "Account 011 Vehicle Salespeople — Compensation and Other. Index at page 615 cross-refs 'Variable Selling 362, 365, 368'. Synopsis at PDF page 358."
+    },
+    {
+      "line_id": "personnel-expense-sales",
+      "canonical_name": "Salaries — Owners / Executive Managers",
+      "page": 366,
+      "line_number": null,
+      "category": "personnel",
+      "aliases": ["executive salaries", "owner salary", "personnel expense", "020 salaries"],
+      "manual_section_refs": ["PERSONNEL"],
+      "notes": "Account 020 (Personnel Expense). Note: sales-person compensation itself is in Account 011 (Variable Selling) at p358; 020 covers owner/exec manager comp."
+    },
+    {
+      "line_id": "floor-plan-interest",
+      "canonical_name": "Interest — Floorplan",
+      "page": 433,
+      "line_number": null,
+      "category": "semi_fixed_expenses",
+      "aliases": ["floorplan interest", "flooring interest", "floor plan", "076 interest"],
+      "manual_section_refs": ["SEMI-FIXED", "FLOORPLAN"],
+      "notes": "Account 076 Interest Floorplan (Semi-Fixed). Index page 615: 'Floorplan Interest 437, 441'. Main synopsis page 433; floorplan credits (Account 078) at page 437."
+    },
+    {
+      "line_id": "advertising-expense",
+      "canonical_name": "Advertising",
+      "page": 405,
+      "line_number": null,
+      "category": "semi_fixed_expenses",
+      "aliases": ["advertising", "ad spend", "065 advertising"],
+      "manual_section_refs": ["ADVERTISING", "SEMI-FIXED"],
+      "notes": "Account 065 Advertising (Semi-Fixed Expenses). Often offset by manufacturer advertising assistance; see also Factory Receivables 261 for co-op."
+    },
+    {
+      "line_id": "service-cp-labor-gross",
+      "canonical_name": "Customer Pay Labor — Cars & Light Duty Trucks (Sales)",
+      "page": 263,
+      "line_number": null,
+      "category": "service",
+      "aliases": ["CP labor", "customer pay labor", "customer labor sales", "460A"],
+      "manual_section_refs": ["FIXED OPERATIONS", "CUSTOMER LABOR"],
+      "notes": "Account 460A Customer Labor – Cars & Light Duty Trucks (461A for Commercial/Fleet/Medium Duty). Synopsis at PDF page 263."
+    },
+    {
+      "line_id": "service-warranty-labor-gross",
+      "canonical_name": "Warranty Claim Labor — Mechanical",
+      "page": 289,
+      "line_number": null,
+      "category": "service",
+      "aliases": ["warranty labor", "warranty claim labor", "462 warranty"],
+      "manual_section_refs": ["FIXED OPERATIONS", "WARRANTY"],
+      "notes": "Account 462 Warranty Claim Labor – Mechanical. Body shop warranty labor is Account 472 at page 315."
+    },
+    {
+      "line_id": "service-internal-labor",
+      "canonical_name": "Internal Labor — Mechanical (Sales)",
+      "page": 291,
+      "line_number": null,
+      "category": "service",
+      "aliases": ["internal labor", "463 internal", "internal repair"],
+      "manual_section_refs": ["FIXED OPERATIONS", "INTERNAL LABOR"],
+      "notes": "Account 463 Internal Labor – Mechanical. Used for labor the service dept performs on dealership-owned vehicles (e.g., reconditioning, delivery prep)."
+    },
+    {
+      "line_id": "parts-gross",
+      "canonical_name": "Parts — Customer Mechanical Repair Orders (Sales)",
+      "page": 299,
+      "line_number": null,
+      "category": "parts",
+      "aliases": ["parts gross", "parts sales", "parts mechanical", "467 parts"],
+      "manual_section_refs": ["FIXED OPERATIONS", "PARTS"],
+      "notes": "Accounts 467 (Cars & Light Duty) and 468 (Commercial/Fleet/Medium Duty). Synopsis at PDF page 299."
+    },
+    {
+      "line_id": "finance-income",
+      "canonical_name": "Finance Income — New Vehicles",
+      "page": 481,
+      "line_number": null,
+      "category": "finance_insurance",
+      "aliases": ["F&I income", "finance income", "reserve income", "806 finance"],
+      "manual_section_refs": ["FINANCE", "INSURANCE"],
+      "notes": "Account 806 Finance Income-New Vehicles. Used-vehicle counterpart is Account 810 (see index pp. 483, 487). Synopsis page 481."
+    },
+    {
+      "line_id": "insurance-income",
+      "canonical_name": "Insurance Commission Earned — New Vehicles",
+      "page": 483,
+      "line_number": null,
+      "category": "finance_insurance",
+      "aliases": ["insurance commission", "VSC income", "insurance income"],
+      "manual_section_refs": ["FINANCE", "INSURANCE"],
+      "notes": "Account 807 Insurance Commission Earned – New Vehicles. Used-vehicle counterpart is Account 809 at page 487."
+    },
+    {
+      "line_id": "variable-gross-profit",
+      "canonical_name": "Variable Gross Profit (concept)",
+      "page": 564,
+      "line_number": null,
+      "category": "summary",
+      "aliases": ["variable gross", "variable department gross", "new+used+lease gross"],
+      "manual_section_refs": [],
+      "notes": "Glossary (page 564) defines Variable Gross Profit as 'the combined gross profits of the New and Used Vehicle Departments and the Lease and Rental Department.' Replaces the starter's 'total-gross-profit' — the manual text does not define 'Total Gross Profit' as a distinct form line."
+    },
+    {
+      "line_id": "net-profit",
+      "canonical_name": "Profit and Loss (Account 399)",
+      "page": 208,
+      "line_number": null,
+      "category": "summary",
+      "aliases": ["net profit", "net income", "bottom line", "profit"],
+      "manual_section_refs": ["NET WORTH"],
+      "notes": "Account 399 Profit and Loss (Owner's Equity, Net Worth section). Synopsis at PDF page 208."
+    },
+    {
+      "line_id": "rent-expense",
+      "canonical_name": "Rent (Real Estate)",
+      "page": 440,
+      "line_number": null,
+      "category": "fixed_expenses",
+      "aliases": ["rent", "real estate rent", "occupancy", "080 rent"],
+      "manual_section_refs": ["FIXED"],
+      "notes": "Account 080 Rent (Fixed Expenses). Synopsis at PDF page 440."
+    },
+    {
+      "line_id": "utilities",
+      "canonical_name": "Utilities",
+      "page": 455,
+      "line_number": null,
+      "category": "fixed_expenses",
+      "aliases": ["utility expense", "electric gas water", "087 utilities"],
+      "manual_section_refs": ["FIXED"],
+      "notes": "Account 087 Utilities (Fixed Expenses). Water, electricity, and heat. Synopsis at PDF page 455."
+    },
+    {
+      "line_id": "lifo-inventory",
+      "canonical_name": "LIFO Adjustment / LIFO Reserve",
+      "page": 539,
+      "line_number": "Line 36 (Operating Report Page 7); transferred to Line 35 Page 1",
+      "category": "balance_sheet",
+      "aliases": ["LIFO reserve", "LIFO adjustment", "952 LIFO"],
+      "manual_section_refs": [],
+      "notes": "Account 952 LIFO Adjustment (Deductions from Income). One of the very few lines the manual explicitly maps to the Operating Report grid: 'Total LIFO Reserve, Line 36, Page 7, will be transferred & displayed on Page 1, Line 35' (e.g., page 31). Synopsis at PDF page 539."
+    },
+    {
+      "line_id": "accounts-receivable-vehicle",
+      "canonical_name": "Contracts in Transit (Account 205)",
+      "page": 18,
+      "line_number": null,
+      "category": "balance_sheet",
+      "aliases": ["AR vehicle", "vehicle receivables", "contracts in transit", "205"],
+      "manual_section_refs": [],
+      "notes": "Account 205 Contracts in Transit (Assets / Cash and Contracts). Records finance contracts for new and used vehicle sales submitted to financial institutions. Synopsis at PDF page 18."
+    },
+    {
+      "line_id": "holdback",
+      "canonical_name": "Holdback (concept) / Factory Receivables",
+      "page": 81,
+      "line_number": null,
+      "category": "new_vehicles",
+      "aliases": ["holdback", "dealer holdback", "manufacturer holdback", "factory receivables"],
+      "manual_section_refs": [],
+      "notes": "No standalone 'Holdback' account in this edition. The glossary (page 560) defines Holdback as ~3% of list price, handled as a receivable from the factory (Account 261 Factory Receivables). Synopsis of 261 is at page 81."
+    },
+    {
+      "line_id": "document-handling-fees",
+      "canonical_name": "Document Handling Fees",
+      "page": 538,
+      "line_number": "Line 69 (Operating Report Page 7)",
+      "category": "additions_to_income",
+      "aliases": ["doc fees", "document handling", "910 doc fees"],
+      "manual_section_refs": [],
+      "notes": "Account 910 Document Handling Fee (Additions from Income). Explicitly stated at PDF page 233: 'displayed on page 7, line 69 of the monthly Operating Report.' Synopsis at PDF page 538."
+    }
+  ]
+}

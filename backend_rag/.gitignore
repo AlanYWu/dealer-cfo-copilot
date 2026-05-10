@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Test / build artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Local env / secrets
+.env
+
+# Docker volume (ES on-disk data — can be 100s of MB)
+.elasticsearch/
+
+# macOS
+.DS_Store

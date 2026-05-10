@@ -1,0 +1,71 @@
+# ============================================================
+# Dealer CFO Copilot — monorepo .gitignore
+# Subfolder-specific gitignores still apply on top of this.
+# ============================================================
+
+# --- macOS / editor noise ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log
+
+# --- env / secrets (never commit) ---
+.env
+.env.local
+.env.*.local
+*.env
+
+# Backups created when collapsing subrepos into this monorepo
+.git_backups_subrepos.tar.gz
+
+# ============================================================
+# backend_rag/  (FastAPI + Elasticsearch)
+# ============================================================
+backend_rag/.venv/
+backend_rag/.elasticsearch/
+backend_rag/.pytest_cache/
+backend_rag/**/__pycache__/
+backend_rag/**/*.pyc
+backend_rag/**/*.pyo
+backend_rag/**/*.egg-info/
+backend_rag/.coverage
+backend_rag/htmlcov/
+
+# ============================================================
+# frontend_website/  (Next.js)
+# ============================================================
+frontend_website/node_modules/
+frontend_website/.next/
+frontend_website/out/
+frontend_website/build/
+frontend_website/coverage/
+frontend_website/test-results/
+frontend_website/tests/e2e/.tmp-data/
+frontend_website/tsconfig.tsbuildinfo
+frontend_website/.pnp
+frontend_website/.pnp.js
+# Per-user uploaded PDFs / sessions (large, user-specific)
+frontend_website/data/workspaces/
+# Brainstorming companion session state
+frontend_website/.superpowers/
+
+# ============================================================
+# bp/  (weekend prototype)
+# ============================================================
+bp/.venv/
+bp/data/index.lance/
+bp/data/gm_manual.pdf
+bp/**/__pycache__/
+
+# ============================================================
+# rag_knowledge_base/  (PDF corpus — DO NOT push PDFs)
+# Track READMEs and folder structure only.
+# ============================================================
+rag_knowledge_base/**/*.pdf
+rag_knowledge_base/**/*.PDF
+
+# ============================================================
+# static_website/  — lives in its own GitHub Pages repo
+# ============================================================
+static_website/

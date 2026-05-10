@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sSL -o _shared_GM_family/gm_dealer_standard_accounting_manual.pdf \"http://gm.acctmanual.com/Misc/gm_acct_manual%20v2-2-1-1.pdf\" -w \"GM: HTTP %{http_code}, %{size_download} bytes\\\\n\")",
+      "Bash(curl -sSL -o 00_common/irs_pub538_accounting_periods_and_methods.pdf \"https://www.irs.gov/pub/irs-pdf/p538.pdf\" -w \"IRS538: HTTP %{http_code}, %{size_download} bytes\\\\n\")"
+    ]
+  }
+}

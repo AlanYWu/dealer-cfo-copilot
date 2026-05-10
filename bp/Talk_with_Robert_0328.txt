@@ -1,0 +1,43 @@
+[00:00] Speaker 1: without me doing it, but I wanted to do it for all of them.
+
+[00:04] Speaker 2: Right?
+
+[00:04] Speaker 1: So like every time I do this, I want you to take every line that I've told you where it goes, read it, don't think it. Like, cause that's where it's having issues. Is it's like, well, I think you should do this. I'm like, but you don't have the access to that to do it. So I appreciate that you want to try and help me here, but I can't give you that access because it's a encrypted tool from the financial side. So it won't let me give it access.
+
+[00:30] Speaker 2: Yeah. I think it doesn't have access, but how do you plan to make it happen, for example? Do you just make a screenshot of your...
+
+[00:40] Speaker 1: So what I do is I have, so like at home, I worked from home the other day, I have a 52-inch ultra-wide. So I will have them side by side, and then I will just copy and paste between the two. Oh, wow. Or just go down with my keypad. It might take me 10 minutes to do a whole store once it's done. It probably took me 12 hours to make my form, but now once I have it and it's consistent, all I've gotta do is just go through and type in numbers and it'll calculate for me. How I started is, for my expense spreadsheet, because it's all based on your percentage of gross profit, so I will put in the gross profit for each of the departments at the top of the sheet, and then I will go through and enter the amount of cost for each of the expenses, so that it'll calculate the percentage every time.
+
+[01:31] Speaker 2: So what do you think is the most time consuming and annoying thing that you wanna, you could probably delegate that to a system that can help you.
+
+[01:40] Speaker 1: The problem is there's not many, you need to have, and this is where I run into problems and it's one of my things that I'm not good at is giving up certain things that I feel like if I give them to a person they won't do as well. Oh, I see. So, like, the problem is when I made that sheet, it takes a lot of debugging, right? Because you might think that it's correct what you're figuring out, but a lot of times.
+
+[02:03] Speaker 2: Yeah, things go, like, I feel like feeling more sorted. Correct.
+
+[02:07] Speaker 1: So, it's like, so, a lot of times, like, you got to think on the fly. So, like, when I did it, so, your manufacturer's financial statement doesn't always tell you where it's pulling the data from. So, it might tell you, like, for instance, it's saying, hey, your expense here was 5% of your total gross.
+
+[02:22] Speaker 2: Mm-hmm.
+
+[02:23] Speaker 1: Well, the problem is that might not be the top line gross that it's using on that sheet. It might be taking it from a different page on the financial statement, but it won't tell you that.
+
+[02:33] Speaker 2: You need to figure that out in order to make your calculations match. I see. So you have to know that.
+
+[02:40] Speaker 1: That's why I say it's the issue I have with certain things. It's like if I give it to somebody, they couldn't make it balance if they don't understand how it works.
+
+[02:49] Speaker 2: Yes.
+
+[02:49] Speaker 1: You know what I mean?
+
+[02:50] Speaker 2: It just wouldn't balance. Wow. For your experience, it's really hard. For example, you hire someone to do it for you. It's really hard for you to teach that person to share your experience with them.
+
+[03:08] Speaker 1: Right. When I worked at McGuire, one of my people who was my best friend that worked with me, he was our CFO. Oh, wow. Right? And he was also an Excel spreadsheet nerd like I was. So I would tell him if I was running into a problem, I'm like, where is this pulling from in accounting? Because it's going to show on a spreadsheet or on the financial statement where it may or may not make sense where it is. But he may be able to help me find where the issue was of where it's coding to correctly in order for me to understand why it's doing that. Because it's all standard accounting procedures based on the manual for whatever brand it is. Now that may or may not make sense. You know what I mean? Because these manuals were made 50 to 100 years ago, depending. You know what I mean? So it may be, I sometimes make decisions that are not technically accurate from an accounting perspective as far as like how you should do it, but they make more sense. So like one of those things, I'll give you an example. Whenever you have people the mechanics that work on the vehicles right most of them are what you call flat rate technicians okay so if you're my you're if you're one of my technicians that are working and you get paid $25 an hour yes so each job if you go into a service facility has a an hourly rate for it and so I could let's say an oil change is you would as a consumer or the manufacturer or whoever would pay let's say it's 0.7 hours to do that right yeah well because obviously every technician is better and worse than other technicians you can sometimes outperform or underperform those numbers based on how your ability is yes so if you are a good flat rate technician you should do 20 percent more than the hours your clock So if you're like, you know, let's say at a minimum. So if you're a 40 hour, you know, technician just using round numbers, you should have a minimum of 50 hours. Now here's the problem. Not every one of those is that. And this is where there's an issue with people not understanding things. And it's specifically the problem at this store that I'm dealing with now. When I came in, they had too many technicians and they could not wrap their head around why I was telling them they had too many. Because the problem is if they don't cover it, you have to then pay them the minimum to get them to a minimum amount of hours, right? And so that's what you call unapplied labor. Oh, yeah. So unapplied labor is the amount of time that you're paying for somebody that you're not collecting from a customer. Oh, I see. Because the works, they can finish work early. Correct. And so you should be the other way. You should have more hours worked than what you have time. So it shouldn't be that situation, but it happens, right? But here's the problem. It's more of an accounting issue because nobody ever looks at where unapplied labor is. because it's in an accounting screen and it doesn't show on any of their departmental reports. So what I've done is I've taken it and I've adjusted their labor costs to do it, which is technically wrong, but now they are going to see what they're actually getting because it's now going to be in their face.
+
+[06:21] Speaker 2: I see. Wow. So you show, you find that potential like benefit increase part and then like you Show it to them so that they actually know.
+
+[06:32] Speaker 1: So like last month, so we went from 20 technicians down to 13. So last month we had 50% or excuse me, 30% less than our average, but we made the most money we did in 12 months. Wow. Then with 30% less labor.
+
+[06:47] Speaker 2: That's amazing.
+
+[06:49] Speaker 1: Even though we did, you know, even though we sold 30% less, we overall productivity was substantially more in your cost benefit with it. Wow.
+
+[06:58] Speaker 2: That's amazing. Wow. I learned a lot from you. Thanks for sharing.
